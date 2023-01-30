@@ -1,4 +1,4 @@
 # DEMSimulations
-Here are some examples of molecular simulations and DEM( Discrete Element Method)
-we use PhasicFlow!!
+Here are some examples of molecular simulations and DEM( Discrete Element Method) /n
+we use PhasicFlow!!/n
 For copyrights please Check https://cemf.ir
