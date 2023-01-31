@@ -1,5 +1,8 @@
 # DEMSimulations
-Here are some examples of molecular simulations and DEM( Discrete Element Method) 
-we use PhasicFlow!! 
-For copyrights please Check https://cemf.ir 
+Here are some examples of Particles simulations and DEM( Discrete Element Method).
+These Cases are developed in PhasicFlow program under Linux environment.
+Finally, the extracted final results are post-processed in the Paraview program.
+For how-to-build and more updates please check: https://github.com/PhasicFlow/phasicFlow .
+For copyrights please Check https://cemf.ir .
+I will be happy to know the answers to your questions about these Cases. Please don't hesitate to ask! :)
 Hope you enjoy! <3
